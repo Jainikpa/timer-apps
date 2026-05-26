@@ -9,7 +9,7 @@
 #   2. AppArmor restricting unprivileged user namespaces (Ubuntu 24.04+)
 #
 # Usage:
-#   curl -fsSL https://github.com/Jainikpa/timer-apps/releases/latest/download/install-linux.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/Jainikpa/timer-apps/main/install-linux.sh | bash
 #   # or:
 #   bash install-linux.sh
 #
